@@ -1,2 +1,2 @@
-# PropExerciseREACT
+# Practice2_REACTPROPS
 Created with CodeSandbox
